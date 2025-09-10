@@ -1,0 +1,52 @@
+body {
+  background-color: #b5b7b8;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#nome {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(241, 234, 234);
+    background-color: rgb(64, 67, 71);
+    text-decoration: underline;
+}
+
+#resumo {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(241, 234, 234);
+    background-color: rgb(64, 67, 71);
+    text-decoration: underline;
+}
+
+#listacontatos {
+   font-family: 'Roboto', sans-serif;
+   font-style: italic;
+}
+
+#ods {
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: rgb(64, 67, 71);
+    color: rgb(241, 234, 234);
+}
+
+#habilidades {
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(64, 67, 71);
+    color: rgb(241, 234, 234);
+}
+
+#educacao {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(241, 234, 234);
+    background-color: rgb(64, 67, 71);
+    text-decoration: underline;
+}
+
+#hobbies {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(241, 234, 234);
+    background-color: rgb(64, 67, 71);
+    text-decoration: underline;
+}
